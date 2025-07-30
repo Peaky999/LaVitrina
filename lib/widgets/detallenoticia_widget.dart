@@ -43,7 +43,7 @@ class DetalleNoticia extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 16),
               child: Text(titulo,
                 style: const TextStyle(
-                  fontSize: 45,                  
+                  fontSize: 25,                  
                   color: Colors.black87,
                   fontWeight: FontWeight.w900,
                   letterSpacing: 0.5
